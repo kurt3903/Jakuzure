@@ -1,0 +1,8 @@
+facebook page id: 
+app id: 
+app secret: 
+user short token: 
+path: 
+text to display: 
+day: 0
+redirect url: 
